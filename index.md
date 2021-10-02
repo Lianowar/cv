@@ -35,7 +35,9 @@ And some other projects that not public available or in progress now
 **Some of technologies that we use**
 
 *Ruby, Ruby on Rails, React.js, Node.js, AWS, React Native*
+
 ***
+
 **Ruby on Rails Developer**
 
 Freelance
@@ -46,7 +48,9 @@ Developed service for tour agency skorost-travel.ru with a small team
 
 Developed online shop and service for food delivery:
 casestarter.ru, noodlemarket.ru
+
 ***
+
 **Junior Ruby on Rails Developer**
 
 IT Co.
@@ -57,7 +61,9 @@ Develop fullstack features for
 [careeraddict.com](https://careeraddict.com),
 [ontopof.com](https://ontopof.com),
 [findemployment.com](https://findemployment.com),
+
 ***
+
 **Programmer**
 
 [Peppers Studio](https://peppers-studio.ru/)
