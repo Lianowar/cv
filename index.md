@@ -29,6 +29,7 @@ teams distribution across projects
   development
 - [Funrise.io](https://funrise.io) - develop backend and lead
   the development team (exclude blockchain contracts part)
+- [LOOKY](https://looky.com) - From scratch to post-production, architect and lead of backend development
 
 And some other projects that not public available or in progress now
 
